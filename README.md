@@ -35,7 +35,7 @@
   <li>
       <h3 color="Red">Görseller:</h3>
       <ul>
-        <li>![Screenshot](Readme-img/anasayfa.png)</li>
+        <li><img src="Readme-img/anasayfa.png"></li>
       </ul>
   </li>
 </ol>
