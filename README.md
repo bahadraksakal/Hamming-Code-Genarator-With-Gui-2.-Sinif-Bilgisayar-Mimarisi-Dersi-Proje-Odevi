@@ -1,5 +1,5 @@
 
-<h2 align="center">#Hamming Code Genarator With Gui</h2>
+<h2 align="center">Hamming Code Genarator With Gui</h2>
 <h3 align="center" color="Darkblue">Ahmet Bahadır Aksakal</h3>
 <h4 align="center" color="Darkblue">20360859079</h4>
 <h5 align="center" color="Darkblue">2. Sınıf Bahar Dönemi Bilgisayar Mimarisi Dersi Proje Ödevim</h5>
