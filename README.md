@@ -35,7 +35,7 @@
   <li>
       <h3 color="Red">Görseller:</h3>
       <ul>
-        <li>Ana Sayfada Seçim Yapabileceğiniz İki Seçenek Buluyor. </li>
+        <li>![Screenshot](Readme-img/anasayfa.png)</li>
       </ul>
   </li>
 </ol>
