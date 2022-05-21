@@ -36,6 +36,16 @@
       <h3 color="Red">Görseller:</h3>
       <ul>
         <li><img src="Readme-img/anasayfa.png"></li>
+        <li><img src="Readme-img/anasayfa2.png"></li>
+        <li><img src="Readme-img/adim0.png"></li>
+        <li><img src="Readme-img/adim1.png"></li>
+        <li><img src="Readme-img/adim2.png"></li>
+        <li><img src="Readme-img/adim3.png"></li>
+        <li><img src="Readme-img/adim4.png"></li>
+        <li><img src="Readme-img/adim5.png"></li>
+        <li><img src="Readme-img/adim6.png"></li>
+        <li><img src="Readme-img/adim7.png"></li>
+        <li><img src="Readme-img/adim8.png"></li>
       </ul>
   </li>
 </ol>
