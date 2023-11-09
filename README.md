@@ -13,7 +13,7 @@
 
 #### [EN]
 
-## 2\. My Spring Semester Computer Architecture Course Project Assignment
+## 2nd Grade Spring Semester Computer Architecture Course Project Assignment
 
 1. ### Technology and Languages Used in the Project:
     
