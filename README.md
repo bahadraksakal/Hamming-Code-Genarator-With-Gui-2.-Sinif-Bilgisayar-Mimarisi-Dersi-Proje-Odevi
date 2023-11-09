@@ -17,8 +17,8 @@
 
 1. ### Technology and Languages Used in the Project:
     
-     * java
-     *Java Swing
+     * Java
+     * Java Swing
       
 2. ### Purpose of the Project:
     
